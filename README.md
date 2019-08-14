@@ -1,4 +1,4 @@
-# ![logo](assets/img/luniverse_logo.png =100) Luniverse
+# ![logo](assets/img/wiki_logo.png) Luniverse
 
 > 루니버스와 관련된 문서를 모아놓은 저장소입니다!
 
